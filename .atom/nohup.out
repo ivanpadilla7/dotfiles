@@ -1,0 +1,3 @@
+
+(atom:11616): IBUS-WARNING **: The owner of /home/ivan/.config/ibus/bus is not root!
+Home directory not accessible: Permission denied
